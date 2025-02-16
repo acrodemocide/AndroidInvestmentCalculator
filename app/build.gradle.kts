@@ -4,14 +4,14 @@ plugins {
 }
 
 android {
-    namespace = "com.example.androidinvestingcalculator"
+    namespace = "com.algorithmicworldautomation.androidinvestingcalculator"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.androidinvestingcalculator"
+        applicationId = "com.algorithmicworldautomation.androidinvestingcalculator"
         minSdk = 24
         targetSdk = 34
-        versionCode = 1
+        versionCode = 2
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
